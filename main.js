@@ -36,3 +36,30 @@
 // git init
 // git add .
 // git commit -am "project set up"
+
+//// PART 2. LIST TASK
+// (1) list task in sc, (2) lsit task in console (3) lt in client side app, (4) in test
+// he is editing the TodoList.sol file with new functionalities
+// then "truffle compile" to edit the contract abi in .json
+// then you need to migrate the new sc to bc: "truffle migrate --reset" reset to chg existing sc
+// you can play with the sc like you did 2 steps above
+
+//// BS-CONFIG.JSON + INDEX.HTML
+// configuring the server-lite in package.json for front end
+// create bs-config.json
+// index.html it's just the html front end, he didnt spend time on this, just copy paste
+
+// "npm run dev" to launch the webapp. it should opne with "loading" and 404 error
+// now you need to fill the "taskList" and "completedtaskList" id for the user in the index.html
+// you need to connect your bs to bc using metamask: use web3.js inside app.js
+// app.js is the javascript webapp code, just copy paste
+
+
+
+
+
+
+
+
+
+
